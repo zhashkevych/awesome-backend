@@ -2,6 +2,7 @@
 
 **EN**
 A curated **and opinionated** list of resources (English & Russian) for Backend developers that will help you orginize & structure your learning path and knowledge. Inspired by [Awesome CTO](https://github.com/kuchin/awesome-cto).
+
 **RU**
 Структурированный список ресурсов для изучения Backend разработки, который поможет систематизировать свои знания и составить план обучение. Основан на личном опыте и самостоятельном изучении данной области. Вдохновленно [Awesome CTO](https://github.com/kuchin/awesome-cto).
 
