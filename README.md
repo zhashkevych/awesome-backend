@@ -13,10 +13,10 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 ## Contents
  * [Basics](#basics)
  * [Computer Science](#computer-science)
- * [Web Development & Networking](#web-development-&-networking)
+ * [Web Development & Networking](#web-development--networking)
  * [Databases](#databases)
  * [Security](#security)
- * [Architecture & Infrastracture](#architecture-&-infrastracture)
+ * [Architecture & Infrastracture](#architecture--infrastracture)
  * [Related links](#related-links)
  * [Books](#books)
 
