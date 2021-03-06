@@ -57,6 +57,7 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 - How authorization & authentication works? What is JWT? (Как работает авторизация и аутентификация? Что такое JWT?)
 - Proxy & Reverse Proxy (Прокси и обратный прокси)
 - Web servers. Nginx. (Веб-сервер. Nginx)
+- REST API Design Principles
 #### Resouses (Ресурсы)
 * [Web Development In 2021 - A Practical Guide](https://youtu.be/VfGW0Qiy2I0)
 * [What is TCP/IP?](https://youtu.be/PpsEaqJV_A0)
@@ -64,6 +65,7 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 * [HTTP Crash Course & Exploration](https://youtu.be/iYM2zFP3Zn0)
 * [TCP vs UDP Crash Course](https://www.youtube.com/watch?v=qqRYkcta6IE&ab_channel=HusseinNasser)
 * [REST API concepts and examples](https://youtu.be/7YcW25PHnAA)
+* [RESTful API](https://restfulapi.net/)
 * [2 Hours NginX Crash Course + Bonus Content](https://youtu.be/hcw-NjOh8r0)
 * [JWT - JSON Web Token Crash Course (NodeJS & Postgres)](https://youtu.be/T0k-3Ze4NLo)
 * [Proxy vs Reverse Proxy Server Explained](https://youtu.be/SqqrOspasag)
@@ -75,6 +77,7 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 * [Веб-разработка для начинающих 🚀 Как устроены веб-приложения? (Frontend/Backend)](https://youtu.be/nQBNH0x4YmI)
 * [Архитектура Web Приложений / от простых до высоконагруженных](https://youtu.be/9mZmc6a0tmM)
 * [Аутентификация в Веб-Приложениях 👨‍💻JWT и Сессии](https://youtu.be/w8ENQfaYIT8)
+* [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
 
 ## Databases
 
