@@ -125,6 +125,7 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 * [Cracking Websites with Cross Site Scripting - Computerphile](https://youtu.be/L5l9lSnNMxg)
 * [Cross-Site Scripting (XSS) Explained](https://youtu.be/EoaDgUgS6QA)
 * [Why LocalStorage is Vulnerable to XSS (and cookies are too)](https://youtu.be/M6N7gEZ-IUQ)
+* [OWASP Cheat Sheat](https://cheatsheetseries.owasp.org/)
 * [Как работает HTTPS?](https://youtu.be/B3j4SS5P8tM)
 * [Безопасность интернет-приложений (2020)](https://www.youtube.com/playlist?list=PLrCZzMib1e9oopXP4-aumUxkbz_56Czon)
 * [Как хранить пароли и ключи в коде проектов? Всё о переменных окружения. Пример с Django](https://youtu.be/Y9MRCxq4DIc)
