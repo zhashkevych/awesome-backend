@@ -28,9 +28,8 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
  
 ## Computer Science
 
-#### Main topics (Основные темы)
-EN         | RU        
----------- | ---------- 
+Main topics | Основные темы
+----------- | ----------
 What is computer and how it works? | Что такое компьютер и как он работает?
 Why do we need programming languages? What types of programming languages are out there? | Зачем нужны языки программирования? Какие типы бывают?
 Algorithms & Data Structures | Алгоритмы и структуры данных
@@ -54,9 +53,8 @@ Concurrency & Parallelism | Конкурентность и параллелиз
 
 ## Web Development & Networking
 
-#### Main topics (Основные темы)
-EN         | RU
----------- | ----------
+Main topics | Основные темы
+----------- | ----------
 What is client-server architecture and HTTP? | Что такое клиент-серверная архитектура и HTTP?
 What is TCP/IP? | Что такое стек TCP/IP?
 What is DNS? | Что такое DNS?
@@ -88,9 +86,8 @@ REST API Design Principles | Принципы проектирования REST 
 
 ## Databases
 
-#### Main topics (Основные темы)
-EN         | RU
----------- | ----------
+Main topics | Основные темы
+----------- | ----------
 What are database and DBMS? | Что такое база данных и СУБД?
 What is a relational database? What is SQL? | Что такое реляционная БД и SQL?
 What are indexes & transactions? | Что такое индексы и транзакции?
@@ -120,9 +117,8 @@ What is databases normalization? | Что такое нормализация Б
 
 ## Security
 
-#### Main topics (Основные темы)
-EN         | RU
----------- | ----------
+Main topics | Основные темы
+----------- | ----------
 What is HTTPS and how does it work? | Что такое HTTPS и как он работает?
 What are main types of attacks and vulnurabilities in web applications? | Какие существуют основные типы атак и уязвимостей в веб-приложениях?
 What is SQL Injection? How to prevent it? | Что такое SQL инъекция? Как ее предотвратить?
@@ -148,9 +144,8 @@ How to store passwords/secrets in web app? | Как хранить пароли/
 
 ## Architecture & Infrastracture
 
-#### Main topics (Основные темы)
-EN         | RU
----------- | ----------
+Main topics | Основные темы
+----------- | ----------
 What are distributed systems? | Что такое распределеные системы?
 What is scaling? Horizontal vs Vertical scaling? How to scale web apps and databases? | Что такое масштабирование? Горизонтальное vs Вертикальное масштабирование? Как масштабировать веб-приложения и базы данных?
 What is CAP Theorem? What are CP and AP systems? | Что такое CAP теорема? Как выглядят CP и AP системы?
@@ -209,7 +204,7 @@ What is DDD? | Что такое Domain Driven Design?
 * [Что стоит за простой загрузкой веб-странички в браузере](https://medium.com/genesis-media/%D1%87%D1%82%D0%BE-%D1%81%D1%82%D0%BE%D0%B8%D1%82-%D0%B7%D0%B0-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%BE%D0%B9-%D0%B2%D0%B5%D0%B1-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BA%D0%B8-%D0%B2-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B5-3933c96467a)
 
 ## Books
-EN         | RU
+📚         | 📚
 ---------- | ----------
 [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) | [Грокаем Алгоритмы](https://github.com/mduisenov/GrokkingAlgorithms/blob/master/%D0%91%D1%85%D0%B0%D1%80%D0%B3%D0%B0%D0%B2%D0%B0%20%D0%90.%20-%20%D0%93%D1%80%D0%BE%D0%BA%D0%B0%D0%B5%D0%BC%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B.%20%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2%20%D0%B8%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%BF%D1%8B%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%89%D0%B8%D1%85%20-%202017.PDF)
 "Clean Code" by Robert Martin | "Чистый Код" Роберт Мартин
