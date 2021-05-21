@@ -38,8 +38,6 @@ Algorithms & Data Structures | Алгоритмы и структуры данн
 OOP | Объектно ориентированное программирование
 Concurrency & Parallelism | Конкурентность и параллелизм
 
-&nbsp;
-
 #### Resouses (Ресурсы)
 * [What is Computer Science](https://www.youtube.com/watch?v=Tzl0ELY_TiM&ab_channel=ZachStar)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA&ab_channel=DoS-DomainofScience)
@@ -66,8 +64,6 @@ How authorization & authentication works? What is JWT? | Как работает
 Proxy & Reverse Proxy | Прокси и обратный прокси
 Web servers. Nginx. | Веб-сервер. Nginx
 REST API Design Principles | Принципы проектирования REST API
-
-&nbsp;
 
 #### Resouses (Ресурсы)
 * [Web Development In 2021 - A Practical Guide](https://youtu.be/VfGW0Qiy2I0)
@@ -102,8 +98,6 @@ What are ACID properties? Which Isolation levels are out there? | Что так�
 What are NoSQL Databases? What are the differences between NoSQL & SQL? | Что такое NoSQL? Какие различия между NoSQL и SQL?
 What is databases normalization? | Что такое нормализация БД?
 
-&nbsp;
-
 #### Resouses (Ресурсы)
 * [What is a Database?](https://www.oracle.com/database/what-is-database/)
 * [What is Database & SQL?](https://youtu.be/FR4QIeZaPeM)
@@ -134,8 +128,6 @@ What are main types of attacks and vulnurabilities in web applications? | Как
 What is SQL Injection? How to prevent it? | Что такое SQL инъекция? Как ее предотвратить?
 What is XSS Attack? How to prevent it? | Что такое XSS атака? Как ее предотвратить?
 How to store passwords/secrets in web app? | Как хранить пароли/секреты в веб приложении?
-
-&nbsp;
 
 #### Resouses (Ресурсы)
 * [9. Securing Web Applications](https://youtu.be/WlmKwIe9z1Q)
@@ -172,8 +164,6 @@ How to automize testing & deployment? What is CI/CD? How to implement it? | Ка
 What is SSL Certificate? How to set it up for your web app? | Что такое SSL сертификат? Как его настроить?
 What is Kubernetes? When should you use it? | Что такое и зачем нужен Kubernetes?
 What is DDD? | Что такое Domain Driven Design?
-
-&nbsp;
 
 #### Resouses (Ресурсы)
 * [Approaching Distributed Systems](https://betterprogramming.pub/approaching-distributed-systems-958d9926d77b)
