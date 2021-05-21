@@ -29,11 +29,17 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 ## Computer Science
 
 #### Main topics (Основные темы)
-- What is computer and how it works? (Что такое компьютер и как он работает?)
-- Why do we need programming languages? What types of programming languages are out there? (Зачем нужны языки программирования? Какие типы бывают?)
-- Algorithms & Data Structures (Алгоритмы и структуры данных)
-- OOP
-- Concurrency & Parallelism (Конкурентность и параллелизм)
+EN         | RU        
+---------- | ---------- 
+What is computer and how it works? | Что такое компьютер и как он работает?
+Why do we need programming languages? What types of programming languages are out there? | Зачем нужны языки программирования? Какие типы бывают?
+Algorithms & Data Structures | Алгоритмы и структуры данных
+Algorithms & Data Structures | Алгоритмы и структуры данных
+OOP | Объектно ориентированное программирование
+Concurrency & Parallelism | Конкурентность и параллелизм
+
+&nbsp;
+
 #### Resouses (Ресурсы)
 * [What is Computer Science](https://www.youtube.com/watch?v=Tzl0ELY_TiM&ab_channel=ZachStar)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA&ab_channel=DoS-DomainofScience)
@@ -51,13 +57,18 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 ## Web Development & Networking
 
 #### Main topics (Основные темы)
-- What is client-server architecture and HTTP? (Что такое клиент-серверная архитектура и HTTP?)
-- What is TCP/IP? (Что такое стек TCP/IP?)
-- What is DNS? (Что такое DNS?)
-- How authorization & authentication works? What is JWT? (Как работает авторизация и аутентификация? Что такое JWT?)
-- Proxy & Reverse Proxy (Прокси и обратный прокси)
-- Web servers. Nginx. (Веб-сервер. Nginx)
-- REST API Design Principles
+EN         | RU
+---------- | ----------
+What is client-server architecture and HTTP? | Что такое клиент-серверная архитектура и HTTP?
+What is TCP/IP? | Что такое стек TCP/IP?
+What is DNS? | Что такое DNS?
+How authorization & authentication works? What is JWT? | Как работает авторизация и аутентификация? Что такое JWT?
+Proxy & Reverse Proxy | Прокси и обратный прокси
+Web servers. Nginx. | Веб-сервер. Nginx
+REST API Design Principles | Принципы проектирования REST API
+
+&nbsp;
+
 #### Resouses (Ресурсы)
 * [Web Development In 2021 - A Practical Guide](https://youtu.be/VfGW0Qiy2I0)
 * [What is TCP/IP?](https://youtu.be/PpsEaqJV_A0)
@@ -82,12 +93,17 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 ## Databases
 
 #### Main topics (Основные темы)
-- What are database and DBMS? (Что такое база данных и СУБД?)
-- What is a relational database? What is SQL? (Что такое реляционная БД и SQL?)
-- What are indexes & transactions? (Что такое индексы и транзакции?)
-- What are ACID properties? Which Isolation levels are out there? (Что такое свойства ACID? Какие есть уровни изоляции транзакций?)
-- What are NoSQL Databases? What are the differences between NoSQL & SQL? (Что такое NoSQL? Какие различия между NoSQL и SQL?)
-- What is databases normalization? (Что такое нормализация БД?)
+EN         | RU
+---------- | ----------
+What are database and DBMS? | Что такое база данных и СУБД?
+What is a relational database? What is SQL? | Что такое реляционная БД и SQL?
+What are indexes & transactions? | Что такое индексы и транзакции?
+What are ACID properties? Which Isolation levels are out there? | Что такое свойства ACID? Какие есть уровни изоляции транзакций?
+What are NoSQL Databases? What are the differences between NoSQL & SQL? | Что такое NoSQL? Какие различия между NoSQL и SQL?
+What is databases normalization? | Что такое нормализация БД?
+
+&nbsp;
+
 #### Resouses (Ресурсы)
 * [What is a Database?](https://www.oracle.com/database/what-is-database/)
 * [What is Database & SQL?](https://youtu.be/FR4QIeZaPeM)
@@ -111,11 +127,16 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 ## Security
 
 #### Main topics (Основные темы)
-- What is HTTPS and how does it work? (Что такое HTTPS и как он работает?)
-- What are main types of attacks and vulnurabilities in web applications? (Какие существуют основные типы атак и уязвимостей в веб-приложениях?)
-- What is SQL Injection? How to prevent it? (Что такое SQL инъекция? Как ее предотвратить?)
-- What is XSS Attack? How to prevent it? (Что такое XSS атака? Как ее предотвратить?)
-- How to store passwords/secrets in web app? (Как хранить пароли/секреты в веб приложении?)
+EN         | RU
+---------- | ----------
+What is HTTPS and how does it work? | Что такое HTTPS и как он работает?
+What are main types of attacks and vulnurabilities in web applications? | Какие существуют основные типы атак и уязвимостей в веб-приложениях?
+What is SQL Injection? How to prevent it? | Что такое SQL инъекция? Как ее предотвратить?
+What is XSS Attack? How to prevent it? | Что такое XSS атака? Как ее предотвратить?
+How to store passwords/secrets in web app? | Как хранить пароли/секреты в веб приложении?
+
+&nbsp;
+
 #### Resouses (Ресурсы)
 * [9. Securing Web Applications](https://youtu.be/WlmKwIe9z1Q)
 * [How does HTTPS work? What's a CA? What's a self-signed Certificate?](https://youtu.be/T4Df5_cojAs)
@@ -136,19 +157,24 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 ## Architecture & Infrastracture
 
 #### Main topics (Основные темы)
-- What are distributed systems? (Что такое распределеные системы?)
-- What is scaling? Horizontal vs Vertical scaling? How to scale web apps and databases? (Что такое масштабирование? Горизонтальное vs Вертикальное масштабирование? Как масштабировать веб-приложения и базы данных?)
-- What is CAP Theorem? What are CP and AP systems? (Что такое CAP теорема? Как выглядят CP и AP системы?)
-- What are Microservices? What patterns do they use? How to design microservices architecture? (Что такое микросервисы? Какие паттерны они используют? Как их проектировать?)
-- What is Event-Driven Architecture? (Что такое Event-Driven архитектура?)
-- What is Clean Architecture? How to implement it using your programming language / framework? (Что такое Чистая Архитектура? Как имплеменировать ее в вашем ЯП / фреймворке?)
-- How to deploy web applications? What is VPS? What is SSH? (Как развертывать веб-приложения? Что такое VPS? Что такое SSH?)
-- What is Docker? Why do we need it? (Что такое Docker? Зачем он нужен?)
-- What are cloud providers? How do you use them? (Что такое клауд провайдеры и зачем они нужны?)
-- How to automize testing & deployment? What is CI/CD? How to implement it? (Как автоматизировать тестирование и деплоймент? Что такое CI/CD и как его настроить?)
-- What is SSL Certificate? How to set it up for your web app? (Что такое SSL сертификат? Как его настроить?)
-- What is Kubernetes? When should you use it? (Что такое и зачем нужен Kubernetes?)
-- What is DDD? (Что такое Domain Driven Design?)
+EN         | RU
+---------- | ----------
+What are distributed systems? | Что такое распределеные системы?
+What is scaling? Horizontal vs Vertical scaling? How to scale web apps and databases? | Что такое масштабирование? Горизонтальное vs Вертикальное масштабирование? Как масштабировать веб-приложения и базы данных?
+What is CAP Theorem? What are CP and AP systems? | Что такое CAP теорема? Как выглядят CP и AP системы?
+What are Microservices? What patterns do they use? How to design microservices architecture? | Что такое микросервисы? Какие паттерны они используют? Как их проектировать?
+What is Event-Driven Architecture? | Что такое Event-Driven архитектура?
+What is Clean Architecture? How to implement it using your programming language / framework? | Что такое Чистая Архитектура? Как имплеменировать ее в вашем ЯП / фреймворке?
+How to deploy web applications? What is VPS? What is SSH? | Как развертывать веб-приложения? Что такое VPS? Что такое SSH?
+What is Docker? Why do we need it? | Что такое Docker? Зачем он нужен?
+What are cloud providers? How do you use them? | Что такое клауд провайдеры и зачем они нужны?
+How to automize testing & deployment? What is CI/CD? How to implement it? | Как автоматизировать тестирование и деплоймент? Что такое CI/CD и как его настроить?
+What is SSL Certificate? How to set it up for your web app? | Что такое SSL сертификат? Как его настроить?
+What is Kubernetes? When should you use it? | Что такое и зачем нужен Kubernetes?
+What is DDD? | Что такое Domain Driven Design?
+
+&nbsp;
+
 #### Resouses (Ресурсы)
 * [Approaching Distributed Systems](https://betterprogramming.pub/approaching-distributed-systems-958d9926d77b)
 * [Scalable Web Architectures Concepts & Design](https://medium.com/distributed-knowledge/scalable-web-architectures-concepts-design-6fd372ee4541)
@@ -193,9 +219,11 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 * [Что стоит за простой загрузкой веб-странички в браузере](https://medium.com/genesis-media/%D1%87%D1%82%D0%BE-%D1%81%D1%82%D0%BE%D0%B8%D1%82-%D0%B7%D0%B0-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%BE%D0%B9-%D0%B2%D0%B5%D0%B1-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BA%D0%B8-%D0%B2-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B5-3933c96467a)
 
 ## Books
-* [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) / [Грокаем Алгоритмы](https://github.com/mduisenov/GrokkingAlgorithms/blob/master/%D0%91%D1%85%D0%B0%D1%80%D0%B3%D0%B0%D0%B2%D0%B0%20%D0%90.%20-%20%D0%93%D1%80%D0%BE%D0%BA%D0%B0%D0%B5%D0%BC%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B.%20%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2%20%D0%B8%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%BF%D1%8B%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%89%D0%B8%D1%85%20-%202017.PDF)
-* "Clean Code" by Robert Martin / "Чистый Код" Роберт Мартин
-* "Clean Architecture" by Robert Martin / "Чистая Архитектура" Роберт Мартин
-* "Professional Software Development" by Steve McConnel / “Профессиональная Разработка ПО” Стив Макконел
-* "Building Microservices" by Sam Newman / "Создание Микросервисов" Сэм Ньюман
-* ["Microservices Patterns" by Chris Richardson](https://github.com/PhatBK/experience/blob/master/tech/Chris%20Richardson%20-%20Microservices%20Patterns_%20With%20examples%20in%20Java%20(2018%2C%20Manning%20Publications).pdf) / "Микросервисы. Паттерны разработки и рефакторинга" Крис Ричардсон
+EN         | RU
+---------- | ----------
+[Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) | [Грокаем Алгоритмы](https://github.com/mduisenov/GrokkingAlgorithms/blob/master/%D0%91%D1%85%D0%B0%D1%80%D0%B3%D0%B0%D0%B2%D0%B0%20%D0%90.%20-%20%D0%93%D1%80%D0%BE%D0%BA%D0%B0%D0%B5%D0%BC%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B.%20%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2%20%D0%B8%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%BF%D1%8B%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%89%D0%B8%D1%85%20-%202017.PDF)
+"Clean Code" by Robert Martin | "Чистый Код" Роберт Мартин
+"Clean Architecture" by Robert Martin | "Чистая Архитектура" Роберт Мартин
+"Professional Software Development" by Steve McConnel | “Профессиональная Разработка ПО” Стив Макконел
+"Building Microservices" by Sam Newman | "Создание Микросервисов" Сэм Ньюман
+["Microservices Patterns" by Chris Richardson](https://github.com/PhatBK/experience/blob/master/tech/Chris%20Richardson%20-%20Microservices%20Patterns_%20With%20examples%20in%20Java%20(2018%2C%20Manning%20Publications).pdf) | "Микросервисы. Паттерны разработки и рефакторинга" Крис Ричардсон
