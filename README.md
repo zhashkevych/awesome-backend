@@ -106,6 +106,7 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 * [Как бы я сейчас объяснил молодому себе зачем существуют требования ACID для баз данных?](https://habr.com/ru/post/535616/)
 * [Основы правил проектирования базы данных](https://habr.com/ru/post/514364/)
 * [Нормализация отношений. Шесть нормальных форм](https://habr.com/ru/post/254773/)
+* [Руководство по проектированию реляционных баз данных (1-3 часть из 15)](https://habr.com/ru/post/193136/)
 
 
 ## Security
