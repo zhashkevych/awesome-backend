@@ -161,7 +161,7 @@ What is SSL Certificate? How to set it up for your web app? | Что такое 
 What is Kubernetes? When should you use it? | Что такое и зачем нужен Kubernetes?
 What is DDD? | Что такое Domain Driven Design?
 
-#### Resouses (Ресурсы)
+#### Resources (Ресурсы)
 * [Approaching Distributed Systems](https://betterprogramming.pub/approaching-distributed-systems-958d9926d77b)
 * [Scalable Web Architectures Concepts & Design](https://medium.com/distributed-knowledge/scalable-web-architectures-concepts-design-6fd372ee4541)
 * [How to Scale SQL and NoSQL Databases](https://betterprogramming.pub/scaling-sql-nosql-databases-1121b24506df)
