@@ -33,7 +33,6 @@ Main topics | Основные темы
 What is computer and how it works? | Что такое компьютер и как он работает?
 Why do we need programming languages? What types of programming languages are out there? | Зачем нужны языки программирования? Какие типы бывают?
 Algorithms & Data Structures | Алгоритмы и структуры данных
-Algorithms & Data Structures | Алгоритмы и структуры данных
 OOP | Объектно ориентированное программирование
 Concurrency & Parallelism | Конкурентность и параллелизм
 
