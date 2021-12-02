@@ -146,7 +146,7 @@ How to store passwords/secrets in web app? | Как хранить пароли/
 
 Main topics | Основные темы
 ----------- | ----------
-What are distributed systems? | Что такое распределеные системы?
+What are distributed systems? | Что такое распределенные системы?
 What is scaling? Horizontal vs Vertical scaling? How to scale web apps and databases? | Что такое масштабирование? Горизонтальное vs Вертикальное масштабирование? Как масштабировать веб-приложения и базы данных?
 What is CAP Theorem? What are CP and AP systems? | Что такое CAP теорема? Как выглядят CP и AP системы?
 What are Microservices? What patterns do they use? How to design microservices architecture? | Что такое микросервисы? Какие паттерны они используют? Как их проектировать?
