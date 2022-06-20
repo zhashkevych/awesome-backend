@@ -49,6 +49,9 @@ Concurrency & Parallelism | Конкурентность и параллелиз
 * [ООП в картинках](https://habr.com/ru/post/463125/)
 * [Многопроцессность, многопоточность, асинхронность в Python и не только. Что это и как работает?](https://youtu.be/JIp14T9bvvc)
 * [Конкурентность и Параллелизм. Просто о сложном](https://youtu.be/-DYeH8kGKVA)
+* [ШАДовский курс по Concurrency (RU)](https://gitlab.com/Lipovsky/concurrency-course/)
+  * [Лекции (МФТИ)](https://www.youtube.com/watch?v=zw6V3SDsXDk&list=PL4_hYwCyhAva37lNnoMuBcKRELso5nvBm)
+  * [Семинары (МФТИ)](https://www.youtube.com/watch?v=mvT1Z0g_1jA&list=PL4_hYwCyhAvYTxm55RBm_HA5Bq5W1Nv-R)
 
 ## Web Development & Networking
 
@@ -191,6 +194,9 @@ What is DDD? | Что такое Domain Driven Design?
 * [Артём Антоненко «Domain Driven Design»](https://youtu.be/_CK5Kag7enw)
 * [Настраиваем авторизацию SSH по ключу в Linux / Unix](https://youtu.be/IVHv3eVQa14)
 * [🚀Собираем масштабируемую архитектуру веб-приложения. Горизонтальное и вертикальное масштабирование](https://www.youtube.com/watch?v=kclYmb47LTg&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21)
+* TFTDS Теория и практика построения отказоустойчивых распределенных систем (RU)
+  * [Лекции (МФТИ)](https://www.youtube.com/watch?v=h5UKFlGxOkg&list=PL4_hYwCyhAvaYKF6HkyCximCvlExxxnrC)
+  * [Семинары (МФТИ)](https://www.youtube.com/watch?v=eRmhfw7hqdw&list=PL4_hYwCyhAvZd6B5fN3yAB0zOCjhgpfgg)
 
 
 ## Related Links
