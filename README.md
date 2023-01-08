@@ -1,10 +1,10 @@
 # Awesome Backend Engineer
 
 **EN**
-A curated **and opinionated** list of resources (English & Russian) for Backend developers that will help you orginize & structure your learning path and knowledges. Inspired by [Awesome CTO](https://github.com/kuchin/awesome-cto).
+A curated **and opinionated** list of resources (English & Russian) for Backend developers that will help you organize & structure your learning path and knowledges. Inspired by [Awesome CTO](https://github.com/kuchin/awesome-cto).
 
 **RU**
-Структурированный список ресурсов для изучения Backend разработки, который поможет систематизировать свои знания и составить план обучения. Основан на личном опыте и самостоятельном изучении данной области. Вдохновленно [Awesome CTO](https://github.com/kuchin/awesome-cto).
+Структурированный список ресурсов для изучения Backend разработки, который поможет систематизировать свои знания и составить план обучения. Основан на личном опыте и самостоятельном изучении данной области. Вдохновлено [Awesome CTO](https://github.com/kuchin/awesome-cto).
 
 ***На правах рекламы***
 *Если вы интересуетесь бекендом и хотите прокачать теоретическую базу, советую познакомится с [курсом "Архитектура Современных Веб-Приложений"](https://www.zhashkevych.com/modern-web-architecture)*
@@ -30,7 +30,7 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 
 Main topics | Основные темы
 ----------- | ----------
-What is computer and how it works? | Что такое компьютер и как он работает?
+What is a computer and how it works? | Что такое компьютер и как он работает?
 Why do we need programming languages? What types of programming languages are out there? | Зачем нужны языки программирования? Какие типы бывают?
 Algorithms & Data Structures | Алгоритмы и структуры данных
 OOP | Объектно ориентированное программирование
@@ -125,7 +125,7 @@ What is SQL Injection? How to prevent it? | Что такое SQL инъекци
 What is XSS Attack? How to prevent it? | Что такое XSS атака? Как ее предотвратить?
 How to store passwords/secrets in web app? | Как хранить пароли/секреты в веб приложении?
 
-#### Resouses (Ресурсы)
+#### Resouces (Ресурсы)
 * [9. Securing Web Applications](https://youtu.be/WlmKwIe9z1Q)
 * [How does HTTPS work? What's a CA? What's a self-signed Certificate?](https://youtu.be/T4Df5_cojAs)
 * [Password Cracking - Computerphile](https://youtu.be/7U-RbOKanYs)
