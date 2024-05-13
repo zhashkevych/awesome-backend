@@ -197,6 +197,7 @@ What is DDD? | Что такое Domain Driven Design?
 * [Good enough engineering to start an Internet company](https://medium.com/@wenbinf/good-enough-engineering-to-start-an-internet-company-f26be5b01025)
 * [The boring technology behind a one-person Internet company](https://medium.com/@wenbinf/the-boring-technology-behind-listen-notes-56697c2e347b)
 * [API as a product. How to sell your work when all you know is a back-end](https://towardsdatascience.com/api-as-a-product-how-to-sell-your-work-when-all-you-know-is-a-back-end-bd78b1449119)
+* [Front End Developer Roadmap](https://www.scaler.com/blog/front-end-developer-roadmap/)
 * [UML for beginners](https://www.youtube.com/playlist?list=PLUoebdZqEHTxNC7hWPPwLsBmWI0KEhZOd)
 * [The other side of technical skill: domain knowledge and long-term vision](https://medium.com/@sihui/the-other-side-of-technical-skill-domain-knowledge-and-long-term-vision-7db0602755da)
 * [Going from Developer to CTO](https://medium.com/@simondowling/how-to-go-from-developer-to-cto-ce72d261c5fc)
