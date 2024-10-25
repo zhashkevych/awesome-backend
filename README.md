@@ -49,6 +49,7 @@ Concurrency & Parallelism | Конкурентность и параллелиз
 * [ООП в картинках](https://habr.com/ru/post/463125/)
 * [Многопроцессность, многопоточность, асинхронность в Python и не только. Что это и как работает?](https://youtu.be/JIp14T9bvvc)
 * [Конкурентность и Параллелизм. Просто о сложном](https://youtu.be/-DYeH8kGKVA)
+* [The Coder Cafe](https://thecoder.cafe)
 
 ## Web Development & Networking
 
