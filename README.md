@@ -36,7 +36,7 @@ Algorithms & Data Structures | Алгоритмы и структуры данн
 OOP | Объектно ориентированное программирование
 Concurrency & Parallelism | Конкурентность и параллелизм
 
-#### Resouses (Ресурсы)
+#### Resources (Ресурсы)
 * [What is Computer Science](https://www.youtube.com/watch?v=Tzl0ELY_TiM&ab_channel=ZachStar)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA&ab_channel=DoS-DomainofScience)
 * CS50 by Harvard. [EN](https://cs50.harvard.edu/) / [RU](https://javarush.ru/quests/QUEST_HARVARD_CS50)
@@ -49,6 +49,7 @@ Concurrency & Parallelism | Конкурентность и параллелиз
 * [ООП в картинках](https://habr.com/ru/post/463125/)
 * [Многопроцессность, многопоточность, асинхронность в Python и не только. Что это и как работает?](https://youtu.be/JIp14T9bvvc)
 * [Конкурентность и Параллелизм. Просто о сложном](https://youtu.be/-DYeH8kGKVA)
+* [The Coder Cafe](https://thecoder.cafe)
 
 ## Web Development & Networking
 
@@ -62,7 +63,7 @@ Proxy & Reverse Proxy | Прокси и обратный прокси
 Web servers. Nginx. | Веб-сервер. Nginx
 REST API Design Principles | Принципы проектирования REST API
 
-#### Resouses (Ресурсы)
+#### Resources (Ресурсы)
 * [Web Development In 2021 - A Practical Guide](https://youtu.be/VfGW0Qiy2I0)
 * [What is TCP/IP?](https://youtu.be/PpsEaqJV_A0)
 * [Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3](https://youtu.be/0OrmKCB0UrQ)
@@ -94,7 +95,7 @@ What are ACID properties? Which Isolation levels are out there? | Что так�
 What are NoSQL Databases? What are the differences between NoSQL & SQL? | Что такое NoSQL? Какие различия между NoSQL и SQL?
 What is databases normalization? | Что такое нормализация БД?
 
-#### Resouses (Ресурсы)
+#### Resources (Ресурсы)
 * [What is a Database?](https://www.oracle.com/database/what-is-database/)
 * [What is Database & SQL?](https://youtu.be/FR4QIeZaPeM)
 * [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
@@ -125,7 +126,7 @@ What is SQL Injection? How to prevent it? | Что такое SQL инъекци
 What is XSS Attack? How to prevent it? | Что такое XSS атака? Как ее предотвратить?
 How to store passwords/secrets in web app? | Как хранить пароли/секреты в веб приложении?
 
-#### Resouces (Ресурсы)
+#### Resources (Ресурсы)
 * [9. Securing Web Applications](https://youtu.be/WlmKwIe9z1Q)
 * [How does HTTPS work? What's a CA? What's a self-signed Certificate?](https://youtu.be/T4Df5_cojAs)
 * [Password Cracking - Computerphile](https://youtu.be/7U-RbOKanYs)
@@ -197,6 +198,7 @@ What is DDD? | Что такое Domain Driven Design?
 * [Good enough engineering to start an Internet company](https://medium.com/@wenbinf/good-enough-engineering-to-start-an-internet-company-f26be5b01025)
 * [The boring technology behind a one-person Internet company](https://medium.com/@wenbinf/the-boring-technology-behind-listen-notes-56697c2e347b)
 * [API as a product. How to sell your work when all you know is a back-end](https://towardsdatascience.com/api-as-a-product-how-to-sell-your-work-when-all-you-know-is-a-back-end-bd78b1449119)
+* [Front End Developer Roadmap](https://www.scaler.com/blog/front-end-developer-roadmap/)
 * [UML for beginners](https://www.youtube.com/playlist?list=PLUoebdZqEHTxNC7hWPPwLsBmWI0KEhZOd)
 * [The other side of technical skill: domain knowledge and long-term vision](https://medium.com/@sihui/the-other-side-of-technical-skill-domain-knowledge-and-long-term-vision-7db0602755da)
 * [Going from Developer to CTO](https://medium.com/@simondowling/how-to-go-from-developer-to-cto-ce72d261c5fc)
