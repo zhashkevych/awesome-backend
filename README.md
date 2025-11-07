@@ -36,7 +36,7 @@ Algorithms & Data Structures | Алгоритмы и структуры данн
 OOP | Объектно ориентированное программирование
 Concurrency & Parallelism | Конкурентность и параллелизм
 
-#### Resouses (Ресурсы)
+#### Resources (Ресурсы)
 * [What is Computer Science](https://www.youtube.com/watch?v=Tzl0ELY_TiM&ab_channel=ZachStar)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA&ab_channel=DoS-DomainofScience)
 * CS50 by Harvard. [EN](https://cs50.harvard.edu/) / [RU](https://javarush.ru/quests/QUEST_HARVARD_CS50)
@@ -62,7 +62,7 @@ Proxy & Reverse Proxy | Прокси и обратный прокси
 Web servers. Nginx. | Веб-сервер. Nginx
 REST API Design Principles | Принципы проектирования REST API
 
-#### Resouses (Ресурсы)
+#### Resources (Ресурсы)
 * [Web Development In 2021 - A Practical Guide](https://youtu.be/VfGW0Qiy2I0)
 * [What is TCP/IP?](https://youtu.be/PpsEaqJV_A0)
 * [Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3](https://youtu.be/0OrmKCB0UrQ)
@@ -94,7 +94,7 @@ What are ACID properties? Which Isolation levels are out there? | Что так�
 What are NoSQL Databases? What are the differences between NoSQL & SQL? | Что такое NoSQL? Какие различия между NoSQL и SQL?
 What is databases normalization? | Что такое нормализация БД?
 
-#### Resouses (Ресурсы)
+#### Resources (Ресурсы)
 * [What is a Database?](https://www.oracle.com/database/what-is-database/)
 * [What is Database & SQL?](https://youtu.be/FR4QIeZaPeM)
 * [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
@@ -125,7 +125,7 @@ What is SQL Injection? How to prevent it? | Что такое SQL инъекци
 What is XSS Attack? How to prevent it? | Что такое XSS атака? Как ее предотвратить?
 How to store passwords/secrets in web app? | Как хранить пароли/секреты в веб приложении?
 
-#### Resouses (Ресурсы)
+#### Resources (Ресурсы)
 * [9. Securing Web Applications](https://youtu.be/WlmKwIe9z1Q)
 * [How does HTTPS work? What's a CA? What's a self-signed Certificate?](https://youtu.be/T4Df5_cojAs)
 * [Password Cracking - Computerphile](https://youtu.be/7U-RbOKanYs)
