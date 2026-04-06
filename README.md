@@ -10,6 +10,7 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 *Если вы интересуетесь бекендом и хотите прокачать теоретическую базу, советую познакомится с [курсом "Архитектура Современных Веб-Приложений"](https://www.zhashkevych.com/modern-web-architecture)*
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for backend development workflow orchestration, automated API management, and multi-agent coordination. MIT licensed.
 ## Contents
  * [Basics](#basics)
  * [Computer Science](#computer-science)
