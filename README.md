@@ -1,24 +1,33 @@
 # Awesome Backend Engineer
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
+
 **EN**
 A curated **and opinionated** list of resources (English & Russian) for Backend developers that will help you organize & structure your learning path and knowledges. Inspired by [Awesome CTO](https://github.com/kuchin/awesome-cto).
 
 **RU**
 Структурированный список ресурсов для изучения Backend разработки, который поможет систематизировать свои знания и составить план обучения. Основан на личном опыте и самостоятельном изучении данной области. Вдохновлено [Awesome CTO](https://github.com/kuchin/awesome-cto).
 
-***На правах рекламы***
-*Если вы интересуетесь бекендом и хотите прокачать теоретическую базу, советую познакомится с [курсом "Архитектура Современных Веб-Приложений"](https://www.zhashkevych.com/modern-web-architecture)*
-
 
 ## Contents
  * [Basics](#basics)
  * [Computer Science](#computer-science)
+ * [Programming Languages](#programming-languages)
+ * [Operating Systems & Linux](#operating-systems--linux)
+ * [Version Control](#version-control)
  * [Web Development & Networking](#web-development--networking)
+ * [API Design](#api-design)
  * [Databases](#databases)
  * [Security](#security)
- * [Architecture & Infrastracture](#architecture--infrastracture)
- * [Related links](#related-links)
+ * [Testing](#testing)
+ * [Design Patterns](#design-patterns)
+ * [Architecture & Infrastructure](#architecture--infrastructure)
+ * [DevOps & CI/CD](#devops--cicd)
+ * [System Design & Interviews](#system-design--interviews)
+ * [Newsletters, Podcasts & Blogs](#newsletters-podcasts--blogs)
+ * [Related Links](#related-links)
  * [Books](#books)
+ * [Courses by Author](#courses-by-author)
 
 ## Basics
  * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -54,6 +63,54 @@ Concurrency & Parallelism | Конкурентность и параллелиз
   * [Семинары (МФТИ)](https://www.youtube.com/watch?v=mvT1Z0g_1jA&list=PL4_hYwCyhAvYTxm55RBm_HA5Bq5W1Nv-R)
 * [The Coder Cafe](https://thecoder.cafe)
 
+## Programming Languages
+
+Main topics | Основные темы
+----------- | ----------
+Which language should you pick as a backend engineer? | Какой язык выбрать backend-инженеру?
+Trade-offs between compiled vs interpreted, typed vs dynamic | Компромиссы: компилируемые vs интерпретируемые, типизированные vs динамические
+Language-specific backend ecosystem (frameworks, package managers, tooling) | Экосистема бэкенд-разработки для конкретного языка (фреймворки, пакетные менеджеры, тулинг)
+
+#### Resources (Ресурсы)
+* [Backend Roadmap (roadmap.sh)](https://roadmap.sh/backend)
+* **Go**: [A Tour of Go](https://go.dev/tour/), [Effective Go](https://go.dev/doc/effective_go), [Go by Example](https://gobyexample.com/), [Go Roadmap](https://roadmap.sh/golang)
+* **Python**: [Python Roadmap](https://roadmap.sh/python), [Real Python](https://realpython.com/), [Full Stack Python](https://www.fullstackpython.com/)
+* **Java**: [Java Roadmap](https://roadmap.sh/java), [Baeldung](https://www.baeldung.com/), [Spring Guides](https://spring.io/guides)
+* **Node.js**: [Node.js Roadmap](https://roadmap.sh/nodejs), [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+* **Rust**: [The Rust Book](https://doc.rust-lang.org/book/), [Rust by Example](https://doc.rust-lang.org/rust-by-example/), [Rust Roadmap](https://roadmap.sh/rust)
+
+## Operating Systems & Linux
+
+Main topics | Основные темы
+----------- | ----------
+Processes, threads, memory management | Процессы, потоки, управление памятью
+File systems, I/O, syscalls | Файловые системы, I/O, системные вызовы
+Linux fundamentals for backend engineers | Основы Linux для backend-инженеров
+Shell scripting | Shell-скриптинг
+
+#### Resources (Ресурсы)
+* [Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/) — free OS textbook
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php) — free book by William Shotts
+* [Linux Journey](https://linuxjourney.com/)
+* [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+* [Missing Semester (MIT)](https://missing.csail.mit.edu/) — shell, Git, editors, debugging
+* [Linux Performance (Brendan Gregg)](https://www.brendangregg.com/linuxperf.html)
+
+## Version Control
+
+Main topics | Основные темы
+----------- | ----------
+Git fundamentals: commits, branches, merge, rebase | Основы Git: коммиты, ветки, merge, rebase
+Git workflows (trunk-based, GitFlow, GitHub Flow) | Git-воркфлоу (trunk-based, GitFlow, GitHub Flow)
+Resolving conflicts and undoing mistakes | Разрешение конфликтов и отмена ошибок
+
+#### Resources (Ресурсы)
+* [Pro Git Book](https://git-scm.com/book/en/v2) — free, the canonical reference
+* [Learn Git Branching](https://learngitbranching.js.org/) — interactive tutorial
+* [Oh Shit, Git!?!](https://ohshitgit.com/) — fixing common mistakes
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+* [Trunk Based Development](https://trunkbaseddevelopment.com/)
+
 ## Web Development & Networking
 
 Main topics | Основные темы
@@ -87,6 +144,27 @@ REST API Design Principles | Принципы проектирования REST 
 * [Аутентификация в Веб-Приложениях 👨‍💻JWT и Сессии](https://youtu.be/w8ENQfaYIT8)
 * [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
 
+## API Design
+
+Main topics | Основные темы
+----------- | ----------
+REST API design principles and maturity model | Принципы проектирования REST и модель зрелости
+GraphQL: when to use, trade-offs | GraphQL: когда использовать, компромиссы
+gRPC and Protocol Buffers | gRPC и Protocol Buffers
+API versioning strategies | Стратегии версионирования API
+OpenAPI/Swagger for documentation | OpenAPI/Swagger для документации
+Idempotency and error handling | Идемпотентность и обработка ошибок
+
+#### Resources (Ресурсы)
+* [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [Google API Design Guide](https://cloud.google.com/apis/design)
+* [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+* [Zalando RESTful API Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+* [How to GraphQL](https://www.howtographql.com/) — free fullstack tutorial
+* [gRPC Docs](https://grpc.io/docs/) — official guide
+* [OpenAPI Specification](https://swagger.io/specification/)
+* [Idempotency in REST APIs (Stripe Engineering)](https://stripe.com/blog/idempotency)
+
 ## Databases
 
 Main topics | Основные темы
@@ -98,6 +176,10 @@ What are ACID properties? Which Isolation levels are out there? | Что так�
 What are NoSQL Databases? What are the differences between NoSQL & SQL? | Что такое NoSQL? Какие различия между NoSQL и SQL?
 What is databases normalization? | Что такое нормализация БД?
 What is Caching? What is Redis? | Что такое кэширование? Что такое Redis?
+What are replication and sharding? | Что такое репликация и шардирование?
+How to read query plans (EXPLAIN/ANALYZE)? | Как читать план запроса (EXPLAIN/ANALYZE)?
+What is Change Data Capture (CDC)? | Что такое Change Data Capture (CDC)?
+What are vector databases and when do you need them? | Что такое векторные БД и когда они нужны?
 
 #### Resources (Ресурсы)
 * [What is a Database?](https://www.oracle.com/database/what-is-database/)
@@ -120,6 +202,13 @@ What is Caching? What is Redis? | Что такое кэширование? Чт
 * [Руководство по проектированию реляционных баз данных (1-3 часть из 15)](https://habr.com/ru/post/193136/)
 * [Redis Crash Course](https://youtu.be/jgpVdJB2sKQ)
 * [Redis in 100 Seconds](https://youtu.be/G1rOthIU-uo)
+* [Use the Index, Luke!](https://use-the-index-luke.com/) — a guide to SQL indexing and performance
+* [PostgreSQL EXPLAIN — Understanding Query Plans](https://www.postgresql.org/docs/current/using-explain.html)
+* [Database Replication Explained](https://youtu.be/bI8Ry6GhMSE)
+* [Database Sharding Crash Course](https://youtu.be/hdxdhCpgYo8)
+* [Change Data Capture (CDC): What it is and how it works](https://www.confluent.io/learn/change-data-capture/)
+* [What is a Vector Database?](https://www.pinecone.io/learn/vector-database/)
+* [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 
 
 ## Security
@@ -131,6 +220,10 @@ What are main types of attacks and vulnurabilities in web applications? | Как
 What is SQL Injection? How to prevent it? | Что такое SQL инъекция? Как ее предотвратить?
 What is XSS Attack? How to prevent it? | Что такое XSS атака? Как ее предотвратить?
 How to store passwords/secrets in web app? | Как хранить пароли/секреты в веб приложении?
+How do OAuth2 and OpenID Connect work? | Как работают OAuth2 и OpenID Connect?
+What is CSRF and how to prevent it? | Что такое CSRF и как его предотвратить?
+How to manage secrets (Vault, KMS, env vars)? | Как управлять секретами (Vault, KMS, env vars)?
+Rate limiting as a defense against abuse and DoS | Rate limiting как защита от злоупотреблений и DoS
 
 #### Resources (Ресурсы)
 * [9. Securing Web Applications](https://youtu.be/WlmKwIe9z1Q)
@@ -147,6 +240,51 @@ How to store passwords/secrets in web app? | Как хранить пароли/
 * [Как хранить пароли и ключи в коде проектов? Всё о переменных окружения. Пример с Django](https://youtu.be/Y9MRCxq4DIc)
 * [SQL-инъекция. Оборона и нападение (часть 1)](https://youtu.be/eE-W2_M_mMU)
 * [Что такое XSS-уязвимость и как тестировщику не пропустить ее](https://habr.com/ru/post/511318/)
+* [OWASP Top 10](https://owasp.org/www-project-top-ten/) — the standard awareness document for web app security
+* [OAuth 2.0 Simplified](https://www.oauth.com/) — free online book by Aaron Parecki
+* [OpenID Connect Explained](https://connect2id.com/learn/openid-connect)
+* [CSRF Explained (OWASP)](https://owasp.org/www-community/attacks/csrf)
+* [HashiCorp Vault — Intro](https://developer.hashicorp.com/vault/tutorials/getting-started)
+* [Rate Limiting Strategies and Techniques (Cloudflare)](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
+* [Dependency Scanning & SBOM (Snyk)](https://snyk.io/learn/software-bill-of-materials-sbom/)
+
+
+## Testing
+
+Main topics | Основные темы
+----------- | ----------
+The test pyramid: unit, integration, e2e | Пирамида тестирования: unit, integration, e2e
+Test-Driven Development (TDD) | Разработка через тестирование (TDD)
+Mocks, stubs, fakes — when to use which | Mocks, stubs, fakes — когда использовать что
+Contract testing for microservices | Контрактное тестирование для микросервисов
+Property-based testing | Property-based тестирование
+Load and performance testing | Нагрузочное и performance тестирование
+
+#### Resources (Ресурсы)
+* [The Practical Test Pyramid (Martin Fowler)](https://martinfowler.com/articles/practical-test-pyramid.html)
+* [Test Driven Development: By Example (Kent Beck)](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
+* [Testing Microservices, the sane way](https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16)
+* [Pact — Contract Testing](https://docs.pact.io/)
+* [Property-Based Testing in Python with Hypothesis](https://hypothesis.works/articles/what-is-property-based-testing/)
+* [k6 — Modern Load Testing](https://k6.io/docs/)
+* [Google Testing Blog](https://testing.googleblog.com/)
+
+
+## Design Patterns
+
+Main topics | Основные темы
+----------- | ----------
+SOLID principles | Принципы SOLID
+GoF patterns: creational, structural, behavioral | GoF паттерны: порождающие, структурные, поведенческие
+Enterprise application patterns (PoEAA) | Паттерны корпоративных приложений (PoEAA)
+Anti-patterns and when NOT to apply a pattern | Антипаттерны и когда НЕ нужно применять паттерн
+
+#### Resources (Ресурсы)
+* [Refactoring.Guru — Design Patterns](https://refactoring.guru/design-patterns) — EN/RU, excellent illustrations
+* [SOLID Principles Explained](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+* [Patterns of Enterprise Application Architecture (Fowler)](https://martinfowler.com/books/eaa.html)
+* [Design Patterns: Elements of Reusable OO Software (GoF)](https://en.wikipedia.org/wiki/Design_Patterns)
+* [Refactoring.Guru на русском](https://refactoring.guru/ru/design-patterns)
 
 
 ## Architecture & Infrastructure
@@ -168,6 +306,9 @@ What is Kubernetes? When should you use it? | Что такое и зачем н
 What is DDD? | Что такое Domain Driven Design?
 What are Message Queues? What is Kafka? | Что такое очереди сообщений? Что такое Kafka?
 What is Observability? What are logs, metrics and traces? | Что такое наблюдаемость? Что такое логи, метрики и трейсы?
+What are Saga, Outbox, CQRS, Event Sourcing patterns? | Что такое паттерны Saga, Outbox, CQRS, Event Sourcing?
+What is idempotency? Why does it matter in distributed systems? | Что такое идемпотентность? Почему она важна в распределённых системах?
+What are circuit breakers, retries, timeouts, bulkheads? | Что такое circuit breaker, retry, timeout, bulkhead?
 
 #### Resources (Ресурсы)
 * [Approaching Distributed Systems](https://betterprogramming.pub/approaching-distributed-systems-958d9926d77b)
@@ -207,6 +348,79 @@ What is Observability? What are logs, metrics and traces? | Что такое н
 * [Apache Kafka Crash Course](https://youtu.be/R873BlNVUB4)
 * [Prometheus and Grafana Crash Course](https://youtu.be/9TJx7QTrTyo)
 * [OpenTelemetry Crash Course](https://youtu.be/r8UvWSX3KA8)
+* [Pattern: Saga (microservices.io)](https://microservices.io/patterns/data/saga.html)
+* [Pattern: Transactional Outbox (microservices.io)](https://microservices.io/patterns/data/transactional-outbox.html)
+* [CQRS (Martin Fowler)](https://martinfowler.com/bliki/CQRS.html)
+* [Event Sourcing (Martin Fowler)](https://martinfowler.com/eaaDev/EventSourcing.html)
+* [Designing robust and predictable APIs with idempotency (Stripe)](https://stripe.com/blog/idempotency)
+* [Circuit Breaker Pattern (Martin Fowler)](https://martinfowler.com/bliki/CircuitBreaker.html)
+* [Release It! patterns summary](https://www.pragprog.com/titles/mnee2/release-it-second-edition/)
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) — huge companion list
+
+
+## DevOps & CI/CD
+
+Main topics | Основные темы
+----------- | ----------
+What is DevOps? What does a DevOps culture look like? | Что такое DevOps? Как выглядит DevOps-культура?
+Infrastructure as Code (IaC): Terraform, Pulumi, Ansible | Инфраструктура как код (IaC): Terraform, Pulumi, Ansible
+CI/CD pipelines: GitHub Actions, GitLab CI, ArgoCD | CI/CD пайплайны: GitHub Actions, GitLab CI, ArgoCD
+GitOps principles | Принципы GitOps
+Cloud providers: AWS, GCP, Azure fundamentals | Клауд-провайдеры: основы AWS, GCP, Azure
+
+#### Resources (Ресурсы)
+* [The DevOps Handbook](https://itrevolution.com/product/the-devops-handbook-second-edition/)
+* [Google SRE Book (free)](https://sre.google/sre-book/table-of-contents/)
+* [Terraform Up & Running](https://www.terraformupandrunning.com/)
+* [GitHub Actions Documentation](https://docs.github.com/en/actions)
+* [Argo CD Documentation](https://argo-cd.readthedocs.io/)
+* [GitOps Principles (OpenGitOps)](https://opengitops.dev/)
+* [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+* [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
+* [CNCF Landscape](https://landscape.cncf.io/)
+
+
+## System Design & Interviews
+
+Main topics | Основные темы
+----------- | ----------
+How to approach a system design interview | Как подходить к system design интервью
+Designing for scale: back-of-envelope estimates | Проектирование под нагрузку: оценки «на салфетке»
+Common building blocks: LB, cache, queue, DB, CDN | Типовые строительные блоки: LB, кэш, очередь, БД, CDN
+Trade-offs and capacity planning | Компромиссы и планирование ёмкости
+
+#### Resources (Ресурсы)
+* [System Design Primer](https://github.com/donnemartin/system-design-primer) — the canonical free resource
+* [ByteByteGo YouTube](https://www.youtube.com/@ByteByteGo) — Alex Xu
+* [ByteByteGo Newsletter](https://blog.bytebytego.com/)
+* [High Scalability blog](http://highscalability.com/)
+* ["System Design Interview" Vol I & II — Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+* [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
+* [System Design Cheatsheet](https://github.com/karanpratapsingh/system-design)
+
+
+## Newsletters, Podcasts & Blogs
+
+#### Newsletters
+* [ByteByteGo](https://blog.bytebytego.com/) — Alex Xu on system design
+* [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) — Gergely Orosz
+* [High Scalability](http://highscalability.com/)
+* [StatusCode Weekly](https://weekly.statuscode.com/)
+* [Pointer](https://www.pointer.io/)
+
+#### Podcasts
+* [Software Engineering Daily](https://softwareengineeringdaily.com/)
+* [Software Engineering Radio](https://www.se-radio.net/)
+* [Maintainable](https://maintainable.fm/) — Robby Russell
+* [The Changelog](https://changelog.com/podcast)
+
+#### Blogs & YouTube
+* [Martin Fowler](https://martinfowler.com/)
+* [Hussein Nasser (YouTube)](https://www.youtube.com/@hnasr)
+* [Uncle Bob — Clean Coder](https://blog.cleancoder.com/)
+* [Netflix Tech Blog](https://netflixtechblog.com/)
+* [Uber Engineering Blog](https://www.uber.com/en-CY/blog/engineering/)
+* [Stripe Engineering](https://stripe.com/blog/engineering)
 
 
 ## Related Links
@@ -224,9 +438,15 @@ What is Observability? What are logs, metrics and traces? | Что такое н
 📚         | 📚
 ---------- | ----------
 [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) | [Грокаем Алгоритмы](https://github.com/mduisenov/GrokkingAlgorithms/blob/master/%D0%91%D1%85%D0%B0%D1%80%D0%B3%D0%B0%D0%B2%D0%B0%20%D0%90.%20-%20%D0%93%D1%80%D0%BE%D0%BA%D0%B0%D0%B5%D0%BC%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B.%20%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2%20%D0%B8%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%BF%D1%8B%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%89%D0%B8%D1%85%20-%202017.PDF)
-"Clean Code" by Robert Martin | "Чистый Код" Роберт Мартин
-"Clean Architecture" by Robert Martin | "Чистая Архитектура" Роберт Мартин
-"Professional Software Development" by Steve McConnel | “Профессиональная Разработка ПО” Стив Макконел
-"Building Microservices" by Sam Newman | "Создание Микросервисов" Сэм Ньюман
+["Clean Code" by Robert Martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) | "Чистый Код" Роберт Мартин
+["Clean Architecture" by Robert Martin](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/) | "Чистая Архитектура" Роберт Мартин
+["Code Complete" by Steve McConnell](https://www.oreilly.com/library/view/code-complete-second/0735619670/) | "Совершенный Код" Стив Макконелл
+["Building Microservices" by Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/) | "Создание Микросервисов" Сэм Ньюман
 ["Microservices Patterns" by Chris Richardson](https://github.com/PhatBK/experience/blob/master/tech/Chris%20Richardson%20-%20Microservices%20Patterns_%20With%20examples%20in%20Java%20(2018%2C%20Manning%20Publications).pdf) | "Микросервисы. Паттерны разработки и рефакторинга" Крис Ричардсон
 ["Designing Data-Intensive Applications" by Martin Kleppmann](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) | "Высоконагруженные приложения" Мартин Клеппманн
+["System Design Interview" Vol I & II by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) | —
+["Database Internals" by Alex Petrov](https://www.databass.dev/) | —
+["Release It!" by Michael Nygard](https://pragprog.com/titles/mnee2/release-it-second-edition/) | —
+["The Pragmatic Programmer" by Hunt & Thomas](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) | "Программист-прагматик"
+["Understanding Distributed Systems" by Roberto Vitillo](https://understandingdistributed.systems/) | —
+["Fundamentals of Software Architecture" by Richards & Ford](https://www.developertoarchitect.com/lessons/book.html) | —
