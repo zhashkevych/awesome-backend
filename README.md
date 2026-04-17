@@ -27,7 +27,6 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
  * [Newsletters, Podcasts & Blogs](#newsletters-podcasts--blogs)
  * [Related Links](#related-links)
  * [Books](#books)
- * [Courses by Author](#courses-by-author)
 
 ## Basics
  * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
