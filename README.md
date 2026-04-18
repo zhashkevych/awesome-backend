@@ -432,6 +432,7 @@ Trade-offs and capacity planning | Компромиссы и планирова�
 * [Going from Developer to CTO](https://medium.com/@simondowling/how-to-go-from-developer-to-cto-ce72d261c5fc)
 * [What Truly Makes a Senior Developer](https://medium.com/s/story/what-truly-makes-a-senior-developer-74b608847d7e)
 * [Что стоит за простой загрузкой веб-странички в браузере](https://medium.com/genesis-media/%D1%87%D1%82%D0%BE-%D1%81%D1%82%D0%BE%D0%B8%D1%82-%D0%B7%D0%B0-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%BE%D0%B9-%D0%B2%D0%B5%D0%B1-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BA%D0%B8-%D0%B2-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B5-3933c96467a)
+* [BitDive](https://bitdive.io) — Zero-code integration testing platform for Java/Kotlin that generates tests from runtime application behavior | Платформа для автоматической генерации интеграционных тестов из поведения приложения
 
 ## Books
 📚         | 📚
