@@ -381,6 +381,7 @@ Cloud providers: AWS, GCP, Azure fundamentals | Клауд-провайдеры:
 
 ## System Design & Interviews
 
+* [InterviewLegend](https://interviewlegend.com/guides/system-design) - system design interviews broken down company by company, from first-hand reports
 Main topics | Основные темы
 ----------- | ----------
 How to approach a system design interview | Как подходить к system design интервью
