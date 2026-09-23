@@ -163,6 +163,7 @@ Idempotency and error handling | Идемпотентность и обрабо�
 * [gRPC Docs](https://grpc.io/docs/) — official guide
 * [OpenAPI Specification](https://swagger.io/specification/)
 * [Idempotency in REST APIs (Stripe Engineering)](https://stripe.com/blog/idempotency)
+* [Cortex](https://github.com/cortex-docs/cortex) - interactive API documentation and typed SDK generation from OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC
 
 ## Databases
 
