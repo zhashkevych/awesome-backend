@@ -396,6 +396,7 @@ Trade-offs and capacity planning | Компромиссы и планирова�
 * ["System Design Interview" Vol I & II — Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 * [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 * [System Design Cheatsheet](https://github.com/karanpratapsingh/system-design)
+* [Delta Byte Tutorials](https://app.tbx.ai/tutorials) — system design, database and streaming tutorials for interview prep (122 free without sign-in, the rest paid)
 
 
 ## Newsletters, Podcasts & Blogs
