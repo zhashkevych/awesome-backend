@@ -30,6 +30,7 @@ A curated **and opinionated** list of resources (English & Russian) for Backend 
 
 ## Basics
  * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+ * [Backend Roadmap — free, open-source curriculum for backend engineering, system design, DevOps and GenAI](https://backendroadmap.com/)
  * [How to Become a Good Backend Engineer (Fundamentals)](https://www.youtube.com/watch?v=V3ZPPPKEipA&ab_channel=HusseinNasser)
  * [Learn to become a Backend Developer (2018)](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
  * [Advice for beginner backend engineers who just started their new jobs in software companies](https://www.youtube.com/watch?v=V3C0VvNrFZ8&ab_channel=HusseinNasser)
