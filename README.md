@@ -267,6 +267,7 @@ Load and performance testing | Нагрузочное и performance тести�
 * [Property-Based Testing in Python with Hypothesis](https://hypothesis.works/articles/what-is-property-based-testing/)
 * [k6 — Modern Load Testing](https://k6.io/docs/)
 * [Google Testing Blog](https://testing.googleblog.com/)
+* [API Regression Testing: Catch Breaking Changes Early](https://keploy.io/blog/community/api-regression-testing)
 
 
 ## Design Patterns
