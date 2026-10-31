@@ -133,6 +133,7 @@ REST API Design Principles | Принципы проектирования REST 
 * [2 Hours NginX Crash Course + Bonus Content](https://youtu.be/hcw-NjOh8r0)
 * [JWT - JSON Web Token Crash Course (NodeJS & Postgres)](https://youtu.be/T0k-3Ze4NLo)
 * [Proxy vs Reverse Proxy Server Explained](https://youtu.be/SqqrOspasag)
+* [Как разобрать ошибку CONNECT: ответ прокси, TLS и статус сайта](https://portproof.org/ru/guides/connect-tunnel-failed)
 * [How HTTP/2 Works, Performance, Pros & Cons and More](https://youtu.be/fVKPrDrEwTI)
 * [How DNS Works - Computerphile](https://youtu.be/uOfonONtIuk)
 * [gRPC Crash Course - Modes, Examples, Pros & Cons and more](https://youtu.be/Yw4rkaTc0f8)
