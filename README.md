@@ -245,8 +245,6 @@ Rate limiting as a defense against abuse and DoS | Rate limiting как защи
 * [CSRF Explained (OWASP)](https://owasp.org/www-community/attacks/csrf)
 * [HashiCorp Vault — Intro](https://developer.hashicorp.com/vault/tutorials/getting-started)
 * [Rate Limiting Strategies and Techniques (Cloudflare)](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
-* [Dependency Scanning & SBOM (Snyk)](https://snyk.io/learn/software-bill-of-materials-sbom/)
-
 
 ## Testing
 
@@ -420,6 +418,7 @@ Trade-offs and capacity planning | Компромиссы и планирова�
 * [Netflix Tech Blog](https://netflixtechblog.com/)
 * [Uber Engineering Blog](https://www.uber.com/en-CY/blog/engineering/)
 * [Stripe Engineering](https://stripe.com/blog/engineering)
+* [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 
 ## Related Links
@@ -441,11 +440,11 @@ Trade-offs and capacity planning | Компромиссы и планирова�
 ["Clean Architecture" by Robert Martin](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/) | "Чистая Архитектура" Роберт Мартин
 ["Code Complete" by Steve McConnell](https://www.oreilly.com/library/view/code-complete-second/0735619670/) | "Совершенный Код" Стив Макконелл
 ["Building Microservices" by Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/) | "Создание Микросервисов" Сэм Ньюман
-["Microservices Patterns" by Chris Richardson](https://github.com/PhatBK/experience/blob/master/tech/Chris%20Richardson%20-%20Microservices%20Patterns_%20With%20examples%20in%20Java%20(2018%2C%20Manning%20Publications).pdf) | "Микросервисы. Паттерны разработки и рефакторинга" Крис Ричардсон
+"Microservices Patterns" by Chris Richardson | "Микросервисы. Паттерны разработки и рефакторинга" Крис Ричардсон
 ["Designing Data-Intensive Applications" by Martin Kleppmann](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) | "Высоконагруженные приложения" Мартин Клеппманн
 ["System Design Interview" Vol I & II by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) | —
 ["Database Internals" by Alex Petrov](https://www.databass.dev/) | —
 ["Release It!" by Michael Nygard](https://pragprog.com/titles/mnee2/release-it-second-edition/) | —
 ["The Pragmatic Programmer" by Hunt & Thomas](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) | "Программист-прагматик"
 ["Understanding Distributed Systems" by Roberto Vitillo](https://understandingdistributed.systems/) | —
-["Fundamentals of Software Architecture" by Richards & Ford](https://www.developertoarchitect.com/lessons/book.html) | —
+"Fundamentals of Software Architecture" by Richards & Ford | —
